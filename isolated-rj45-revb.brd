@@ -179,7 +179,7 @@
 <text x="33.02" y="10.16" size="1.778" layer="21" ratio="15">TX B</text>
 <text x="38.1" y="35.56" size="1.778" layer="21" ratio="15" rot="R90">RX B</text>
 <text x="2.413" y="40.767" size="1.778" layer="21" ratio="15" rot="R270">RX A</text>
-<text x="2.54" y="44.45" size="1.778" layer="21" ratio="15">Rev A</text>
+<text x="2.54" y="44.45" size="1.778" layer="21" ratio="15">Rev B</text>
 <text x="12.446" y="6.096" size="1.016" layer="21" ratio="15">VCC GND P1 P2 P3 P4</text>
 <text x="12.446" y="1.651" size="1.016" layer="22" ratio="15" rot="SMR180">VCC GND P1 P2 P3 P4</text>
 <text x="35.56" y="22.86" size="1.778" layer="22" ratio="15" rot="MR0">Please only populate either 
